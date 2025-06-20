@@ -3,6 +3,9 @@
 于是乎通过gemini写下了这个脚本
 **对应使用的相关项目**
 **https://github.com/ciromattia/kcc**
+
+
+
 **https://bookfere.com/tools#KindleGen**
 
 
