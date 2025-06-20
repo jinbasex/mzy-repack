@@ -4,7 +4,9 @@
 **对应使用的相关项目**
 **https://github.com/ciromattia/kcc**
 **https://bookfere.com/tools#KindleGen**
-开始前第0步 
+
+
+##开始前第0步 
 请先下载python 3.10.8版本
 ```shell
 https://www.python.org/ftp/python/3.10.8/python-3.10.8-amd64.exe
@@ -14,6 +16,7 @@ https://www.python.org/ftp/python/3.10.8/python-3.10.8-amd64.exe
 pip install mobi-python
 ```
 
+##拖拽使用
 然后将解压得到所有需要的文件  直接拖拽您的mobi漫画文件到mzy-repack.py
 注意 执行过程会**自动覆盖**原本的mobi文件 
 **建议您及时备份**
