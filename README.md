@@ -1,7 +1,9 @@
 # mzy-repack
 这是一个非常粗糙糟糕的脚本整合包，起因是我和友人在漫自由开通会员下载漫画之后 发现kindle设备阅读会有在每两页内容之中出现一个空白页 并且没有封面
 于是乎通过gemini写下了这个脚本
-
+**对应使用的相关项目**
+**https://github.com/ciromattia/kcc**
+**https://bookfere.com/tools#KindleGen**
 开始前第0步 
 请先下载python 3.10.8版本
 ```shell
